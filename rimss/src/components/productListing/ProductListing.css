@@ -1,0 +1,22 @@
+.productListing {
+}
+
+.productListing-item {
+}
+
+.productListing-item-image {
+  width: 80%;
+}
+.productListing-item-title {
+  text-transform: uppercase;
+}
+
+.productListing-item-price {
+  color: rgb(129, 54, 129);
+}
+
+@media only screen and (max-width: 768px) and (orientation: portrait) {
+  .productListing-item-image {
+    width: 50%;
+  }
+}

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+a {
+  color: rgb(106, 36, 106);
+  text-decoration: none;
+  font-weight: 600;
+}
+a:hover {
+  color: rgb(34, 19, 34);
+}
+
+.noRecord {
+  font-size: 2em;
+  padding: 10px;
+  line-height: 200px;
+}
