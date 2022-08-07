@@ -13,7 +13,7 @@ To run mock api server. It runs on port 3000
 ### `yarn start`
 
 Start api server by using `npm startApi` before starting app
-Runs the app in the development mode.\
+
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 The page will reload when you make changes.\
